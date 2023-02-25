@@ -1,0 +1,42 @@
+*{  margin:0;
+    padding:0;
+  }
+
+.table{
+width:80%;
+margin-left: 100px;
+margin-top: 50px;;
+padding: 15px;
+border-color: rgb(0, 0, 0);
+border-style:groove;
+align: center;
+border-width: 5px; 
+}
+
+th{
+border-style: groove;
+border-color: rgb(0, 0, 0);
+border-width: 5px;
+background-color: #ff7200;
+height: 50px;
+width:10px;
+}
+
+td{
+    border-style:groove;
+    border-color: rgb(0, 0, 0);
+    border-width: 5px;
+    height: 40px;
+    text-align: center;
+    }
+
+.table h3{
+  border-style: groove;
+  border-bottom: 0px;
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  height: 50px;
+  font-size: 30px;
+  text-align: center;
+  background-color: #ff7200;
+  }
